@@ -398,5 +398,10 @@
   {
     "question": "Is lunch provided at the Drone Workshop?",
     "answer": "There is no information about food arrangements."
+  },
+
+  {
+    "question":"what are some workshops in xplore",
+    "answer":"there are various workshops like drone workshop, Edge tuning, LLm"
   }
   ]

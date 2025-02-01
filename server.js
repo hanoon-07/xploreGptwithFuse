@@ -15,7 +15,7 @@ const openai = new OpenAI({
 });
 
 //OPENROUTER_API_KEY=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
-
+//PORT=3000
 
 // Store QA data and Fuse instance
 let qaData = [];

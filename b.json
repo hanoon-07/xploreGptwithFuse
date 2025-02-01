@@ -1,0 +1,29 @@
+{
+    "one": {
+      "event_name": "The Psychic Mind",
+      "date": "February 7, 2025",
+      "organizer": "Government College of Engineering, Kannur",
+      "performer": "Mentalist Adhil",
+      "achievements": "Magician, hypnotist, 9-time world record holder, Founder & COO of Kerala School of Mentalism (KSM).",
+      "entry_fee": "Free",
+      "theme": "Dark and mysterious, with gothic fonts, spiral patterns, and eerie visuals related to hypnosis and mentalism."
+    },
+    "two": {
+      "event_name": "BattleBots Arena",
+      "date": "February 8, 2025",
+      "organizer": "Government College of Engineering, Kannur",
+      "max_robot_weight": "25 kg",
+      "team_size": "Each team can have between 3 to 6 members.",
+      "registration_fee": "699",
+      "prize_pool": "35,000 (35K)"
+    },
+    "three": {
+      "event_name": "Robotrack Challenge",
+      "date": "February 7, 2025",
+      "organizer": "Government College of Engineering, Kannur",
+      "team_size": "Each team can have between 2 to 5 members.",
+      "registration_fee": "499",
+      "prize_pool": "25,000 (25K)"
+    }
+  }
+  
